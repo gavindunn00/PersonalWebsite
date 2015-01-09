@@ -10,13 +10,30 @@ background:rgba(255,255,255,0.5);
 * {
    margin: 0px;
    padding: 0px;
-   
    font-family: 'Roboto', sans-serif;
 }
 
 html { 
   font-family: 'Roboto', sans-serif;
+  background:url(http://i.imgur.com/OmENvfl.jpg) center no-repeat; background-attachment:fixed; 
 }
 
-body	{ background:url(https://dl-web.dropbox.com/get/webresources/gavindback1.png?_subject_uid=145907434&w=AADtFHVkfUy0Yc4dv5kgd5rgv0yrRrM8RsXQAR0q8kC3Jw) top right no-repeat; background-attachment:fixed; }
+body {
+height: 900px;
+}
+
+div#background2 {
+background:url(http://i.imgur.com/shoW8RX.jpg) center no-repeat; background-attachment:fixed;
+height:700px;
+}
+
+#circle {
+	width: 500px;
+	height: 500px;
+	background:rgba(255,255,255,0.7);
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
 
