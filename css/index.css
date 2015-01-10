@@ -24,7 +24,7 @@ height: 900px;
 
 div#background2 {
 background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAAA1BMVEX///+nxBvIAAAASElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIC3AcUIAAFkqh/QAAAAAElFTkSuQmCC");
-height:800px;
+height:900px;
 width:100%;
 postition: absolute;
 }
@@ -61,5 +61,12 @@ postition: absolute;
     left:150px;
     top:350px;
 }
+
+#rectangle {
+  width: 10vw;
+  height: 2px;
+  background:black;
+}
+
 
 
