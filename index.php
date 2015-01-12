@@ -28,7 +28,7 @@ Left side of page
 
 <div id="background3">
 	<center><h4>Where you can find me</h4>
-		<div class="g-ytsubscribe" data-channel="[SmoothTV]" data-layout="default" data-count="default"></div>
+		<div class="g-ytsubscribe" data-channel="SmoothTV" data-layout="default" data-count="default"></div>
 </div>
 
 <script src="https://apis.google.com/js/platform.js"></script>
